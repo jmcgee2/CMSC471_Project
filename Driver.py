@@ -1,4 +1,5 @@
-
+# https://www.youtube.com/watch?v=2FmcHiLCwTU
+# To view type "tensorboard --logdir ." and then type "localhost:6006" in a browser
 import input_data
 import tensorflow as tf
 #FLAGS = tf.app.flags.FLAGS
